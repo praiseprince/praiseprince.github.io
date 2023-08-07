@@ -429,3 +429,8 @@ nav svg{
         margin-bottom: 40px;
     }
 }
+#msg{
+    color: #ffffff;
+    margin-top: 15px;
+    display: block;
+}

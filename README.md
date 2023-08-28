@@ -1,6 +1,6 @@
 # Welcome to My Portfolio Website Repository
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Assets/Screenshot.png)
 
 Hello there! This repository, **praiseprince.github.me**, is the home of my personal portfolio website. Here, you'll find all the HTML and CSS code that powers my portfolio, along with the assets (images, files, etc.) I've used to create a visually appealing and informative online presence.
 

@@ -347,7 +347,7 @@ nav svg{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(assetss/background-p.png);
+        background-image: url(assets/background-p.png);
     }
     .header-text{
         margin-top: 35%;

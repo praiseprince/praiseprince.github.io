@@ -1,4 +1,3 @@
-# praiseprince.github.io
 # Welcome to My Portfolio Website Repository
 
 ![Portfolio Screenshot](screenshot.png)
@@ -30,7 +29,7 @@ git clone https://github.com/praiseprince/praiseprince.github.me.git
 
 ## Contact Me
 
-If you have any questions, suggestions, or just want to connect, don't hesitate to reach out to me. You can find my contact information on my portfolio website itself.
+If you have any questions, suggestions, or just want to connect, don't hesitate to reach out to me. You can find my contact information on my [Portfolio website](https://praiseprince.me/) itself.
 
 Thank you for visiting my portfolio repository. I hope you find it insightful and inspiring!
 

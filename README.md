@@ -2,7 +2,7 @@
 
 ![Portfolio Screenshot](https://github.com/praiseprince/praiseprince.github.io/blob/master/assets/Screenshot%20.png)
 
-Hello there! This repository, **praiseprince.github.me**, is the home of my [personal portfolio website](https://praiseprince.me). Here, you'll find all the HTML and CSS code that powers my portfolio, along with the assets (images, files, etc.) I've used to create a visually appealing and informative online presence.
+Hello there! This repository, **praiseprince.github.me**, is the home of my [Portfolio website](https://praiseprince.me/). Here, you'll find all the HTML and CSS code that powers my portfolio, along with the assets (images, files, etc.) I've used to create a visually appealing and informative online presence.
 
 Feel free to explore the code and assets to learn more about how I've designed and developed my portfolio. If you're curious about specific aspects of my website, the following sections will guide you through the contents of this repository.
 

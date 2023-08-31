@@ -19,8 +19,9 @@ Feel free to explore the code and assets to learn more about how I've designed a
 If you're interested in exploring my code, here's how you can get started:
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
-**git clone https://github.com/praiseprince/praiseprince.github.me.git**
-
+   ```
+   git clone https://github.com/praiseprince/praiseprince.github.me.git
+   ```
 2. **Open the Files:** Once you have the repository on your machine, navigate to the repository directory and open `index.html` in a web browser. This will allow you to view my portfolio website.
 
 3. **Explore the Code:** Dive into the `index.html` and `style.css` files to understand how I've structured my portfolio and applied styles to it. Feel free to modify and experiment with the code to see how different changes affect the layout and appearance.

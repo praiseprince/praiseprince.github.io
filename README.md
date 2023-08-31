@@ -27,12 +27,3 @@ If you're interested in exploring my code, here's how you can get started:
 3. **Explore the Code:** Dive into the `index.html` and `style.css` files to understand how I've structured my portfolio and applied styles to it. Feel free to modify and experiment with the code to see how different changes affect the layout and appearance.
 
 4. **View Assets:** If you're interested in the resources I've used, check out the `assets/` directory. You'll find all the images and files that contribute to the visual content of my portfolio.
-
-## Contact Me
-
-If you have any questions, suggestions, or just want to connect, don't hesitate to reach out to me. You can find my contact information on my [Portfolio website](https://praiseprince.me/) itself.
-
-Thank you for visiting my portfolio repository. I hope you find it insightful and inspiring!
-
-Best regards,  
-Praise Prince
